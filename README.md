@@ -2,10 +2,6 @@
 
 A recruiter-friendly preview of the Aegis project, designed to showcase system capabilities and architecture without exposing the full source code.
 
-# Aegis Demo
-
-A recruiter-friendly preview of the Aegis project, designed to showcase system capabilities and architecture without exposing the full source code.
-
 ## Purpose
 This repository is a **public-facing demo** that demonstrates key platform capabilities using mock data and static UI components. Perfect for:
 - **Hiring portfolios** - Showcase your technical skills and project vision to recruiters
